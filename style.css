@@ -6,6 +6,7 @@
   --Roboto: "Roboto", sans-serif;
   --dark: #3c393d;
   --exDark: #2b2b2b;
+  --exxdark:#fff;
 }
 * {
   margin: 0;
@@ -15,6 +16,9 @@
 .container {
   margin: auto;
   max-width: 1320px;
+}
+img{
+  border-radius: 10px;
 }
 
 /* header.navbar */
