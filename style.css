@@ -346,6 +346,9 @@ font-family: var(--Quicksand);
   justify-content: center;
   padding-bottom:20px;
 }
+.menu{
+  display: none;
+}
 .f_left div{
   display: flex;
   gap: 20px;
